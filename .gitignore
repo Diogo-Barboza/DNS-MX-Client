@@ -1,0 +1,4 @@
+meu_cliente
+*.o
+*.zip
+.DS_Store
